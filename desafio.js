@@ -71,6 +71,7 @@ const jugadorUno = {
   // Mostrando los resultados
   const resultado = {
     [jugadorUno.nombre]: contadorPuntosJug1,
+      [Texto del enlace](https://gist.github.com/desafio)
     [jugadorDos.nombre]: contadorPuntosJug2,
     ganador: ganador,
   };
