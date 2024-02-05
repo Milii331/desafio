@@ -1,5 +1,4 @@
-desafio(https://gist.github.com/desafio)
-const jugadorUno = {
+const jugadorUno = {
     nombre: "Marce",
     habilidades: {
       ataque: 70,
